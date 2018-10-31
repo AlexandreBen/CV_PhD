@@ -1,0 +1,18 @@
+\documentclass[]{personal_class}
+\usepackage[left=2.6cm, right=2.6cm, top=2cm, bottom=2cm]{geometry}
+
+\usepackage[utf8]{inputenc}
+
+
+
+
+\begin{document}
+
+\header{}{Alexandre Constantin}
+       {}
+
+
+
+       
+
+end{document}
